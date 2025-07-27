@@ -1,5 +1,5 @@
 ![Epic Neon Banner](https://i.imgur.com/neon-banner.gif)  
-*(Pro tip: Upload a cool animated banner for maximum effect!)*  
+  
 
 ## **👑 About Me**  
 ```python
